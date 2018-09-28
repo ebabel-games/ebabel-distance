@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Return the distance in 3D space from point \"a\" x, y, and z coordinates to point \"b\" x, y, and z coordinates.",
   "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ebabel-eu/ebabel-distance.git"
@@ -17,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ebabel-eu/ebabel-distance/issues"
   },
-  "homepage": "https://github.com/ebabel-eu/ebabel-distance#readme"
+  "homepage": "https://github.com/ebabel-eu/ebabel-distance#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
