@@ -17,6 +17,9 @@
     "javascript"
   ],
   "author": "Thomas Amar <hello@ebabel.eu> (https://ebabel.eu/)",
+  "contributors": [
+    "Dave Pitts <dgapitts@gmail.com>"
+  ],
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/ebabel-eu/ebabel-distance/issues"
