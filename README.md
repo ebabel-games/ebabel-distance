@@ -1,5 +1,5 @@
 # ebabel-distance
-Return the distance in 3D space from point "a" x, y, and z coordinates to point "b" x, y, and z coordinates.
+Return the distance in 3D space from point "i" x, y, and z coordinates to point "j" x, y, and z coordinates.
 
 ## Instructions for Module Usage in your project/game
 
