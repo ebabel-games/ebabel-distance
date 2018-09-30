@@ -19,6 +19,6 @@ const distance = (i, j) => {
     Math.pow((j[0] - i[0]), 2)
     + Math.pow((j[1] - i[1]), 2)
     + Math.pow((j[2] - i[2]), 2));
-}
+};
 
 module.exports = distance;

@@ -1,7 +1,9 @@
 # ebabel-distance
+[![Build Status](https://travis-ci.org/ebabel-eu/ebabel-distance.svg?branch=master)](https://travis-ci.org/ebabel-eu/ebabel-distance)
+
 Return the distance in 3D space from point "i" x, y, and z coordinates to point "j" x, y, and z coordinates.
 
-## Instructions for Module Usage in your project/game
+## Module install and usage in your game
 
 ### Install
 ```
@@ -11,29 +13,34 @@ npm i --save ebabel-distance
 ### Usage
 ```
 const distance = require('ebabel-distance');
+const i = [-4, 10, 3];
+const j = [2, 3, 8];
 
-const result = distance([-4, 10, 3], [2, 3, 8])
+const result = distance(i, j);
 ```
 
-## Instructions for further development of this module i.e. ebabel-distance
-
-## Fork and clone repo, then start your new develop branch
+## Development of this module
+Fork this repository on Github, `git clone` your repository, checkout the develop branch, and when you are done, submit a pull request from your repository develop branch to this repository develop branch.
 
 * fork repository on github.com
 * git clone 'fork repository'
 * git checkout -b develop
 
-### First step when developing this module
+### First step when developing
 ```
 npm install
 ```
 
-### Before checking in code test this module 
+### Run linting and unit tests
 ```
 npm test
 ```
 
-### Generate documentation for this module
+An html coverage report is to be found in the `coverage` folder.
+
+### Generate documentation
 ```
 npm run jsdoc
 ```
+
+The generated documentation is to be found in the `docs` folder.

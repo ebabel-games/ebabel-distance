@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.2
+- Add Github boilerplate documents.
+- Add Travis CLI and build badge.
+
 ## 1.1.1
 - Add contributor credit.
 
