@@ -1,5 +1,5 @@
 # ebabel-distance
-[![Build Status](https://travis-ci.org/ebabel-eu/ebabel-distance.svg?branch=master)](https://travis-ci.org/ebabel-eu/ebabel-distance)
+[![Build Status](https://travis-ci.org/ebabel-games/ebabel-distance.svg?branch=master)](https://travis-ci.org/ebabel-games/ebabel-distance)
 
 Return the distance in 3D space from point "i" x, y, and z coordinates to point "j" x, y, and z coordinates.
 

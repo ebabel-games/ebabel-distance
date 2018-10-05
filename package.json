@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ebabel-eu/ebabel-distance.git"
+    "url": "git+https://github.com/ebabel-games/ebabel-distance.git"
   },
   "keywords": [
     "games",
@@ -26,9 +26,9 @@
   ],
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/ebabel-eu/ebabel-distance/issues"
+    "url": "https://github.com/ebabel-games/ebabel-distance/issues"
   },
-  "homepage": "https://github.com/ebabel-eu/ebabel-distance#readme",
+  "homepage": "https://github.com/ebabel-games/ebabel-distance#readme",
   "dependencies": {},
   "devDependencies": {
     "ajv": "^6.5.4",
